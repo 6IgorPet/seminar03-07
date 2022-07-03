@@ -1,0 +1,15 @@
+D:\semin3\zad2\bin\Debug\net6.0\zad2.exe
+D:\semin3\zad2\bin\Debug\net6.0\zad2.deps.json
+D:\semin3\zad2\bin\Debug\net6.0\zad2.runtimeconfig.json
+D:\semin3\zad2\bin\Debug\net6.0\zad2.dll
+D:\semin3\zad2\bin\Debug\net6.0\zad2.pdb
+D:\semin3\zad2\obj\Debug\net6.0\zad2.csproj.AssemblyReference.cache
+D:\semin3\zad2\obj\Debug\net6.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+D:\semin3\zad2\obj\Debug\net6.0\zad2.AssemblyInfoInputs.cache
+D:\semin3\zad2\obj\Debug\net6.0\zad2.AssemblyInfo.cs
+D:\semin3\zad2\obj\Debug\net6.0\zad2.csproj.CoreCompileInputs.cache
+D:\semin3\zad2\obj\Debug\net6.0\zad2.dll
+D:\semin3\zad2\obj\Debug\net6.0\refint\zad2.dll
+D:\semin3\zad2\obj\Debug\net6.0\zad2.pdb
+D:\semin3\zad2\obj\Debug\net6.0\zad2.genruntimeconfig.cache
+D:\semin3\zad2\obj\Debug\net6.0\ref\zad2.dll
